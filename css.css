@@ -1,7 +1,7 @@
 @import url("https://nicofilippo.github.io/css-pd_thirical/badges/0badges.css");
 
 .icon-site-logo {
-background: url('http://i.imgur.com/oggcwwM.png') repeat scroll 0% 0% transparent;
+background: url('https://nicofilippo.github.io/css-pd_thirical/images/side.png') repeat scroll 0% 0% transparent;
 background-position: -5px 0px;
 }
 #footer {
@@ -48,10 +48,10 @@ background-color: rgba(17, 19, 23, 0.32);
 	color:#8E0000;
 }
 i.icon.icon-chat-host {
-	background : url(http://i.imgur.com/FY1yM2H.gif);
+	background : url(https://nicofilippo.github.io/css-pd_thirical/images/host.gif);
 }
 i.icon.icon-chat-co-host {
-    background : url(http://i.imgur.com/7ThU0cN.gif);
+    background : url(https://nicofilippo.github.io/css-pd_thirical/images/CoHost.gif);
 }
 .icon-chat-host + span { color: #8E0000 !important;
 }
@@ -61,7 +61,7 @@ i.icon.icon-chat-co-host {
 	color:#C11B17;
 }
 i.icon.icon-chat-manager {
-	background : url(http://i.imgur.com/ZLnbkda.png);
+	background : url(https://nicofilippo.github.io/css-pd_thirical/images/Manager.gif);
 }
 .icon-chat-manager + span { color: #C11B17 !important;
 }
@@ -69,7 +69,7 @@ i.icon.icon-chat-manager {
 	color:#E6A21C;
 }
 i.icon.icon-chat-bouncer {
-	background : url(http://s23.postimg.org/4ftm0twnr/ZLnbkda.png);
+	background : url(https://nicofilippo.github.io/css-pd_thirical/images/Bouncer.gif);
 }
 .icon-chat-bouncer + span { color: #E6A21C !important; 
 }
@@ -77,7 +77,7 @@ i.icon.icon-chat-bouncer {
 	color:#27A196;
 }
 i.icon.icon-chat-dj {
-	background : url(http://s17.postimg.org/fl0yaus5n/ZLnbkda.png);
+	background : url(https://nicofilippo.github.io/css-pd_thirical/images/ResDJ.gif);
 }
 .icon-chat-dj + span { color: #27A196 !important;
 }
@@ -129,66 +129,8 @@ i.icon.icon-chat-dj {
 	visibility: hidden;
 }
 #room-bar .icon-room { 
-	background: url(http://i.imgur.com/PnUlxuP.png);
+	background: url(https://nicofilippo.github.io/css-pd_thirical/images/icon.png);
 
-
-/* BDGBX */
-}
-#chat-messages 
-.id-28936919 .badge-box i.bdg.bdg-nycset-g {background-image: url('http://i.imgur.com/lSdwAN1.png');background-size:cover 
-}
-#chat-messages
-.id-29294294 .badge-box i.bdg.bdg-nycb05 {background-image: url('http://i.imgur.com/xevvQYe.png');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-nycb04 {background-image: url('http://i.imgur.com/pNBLZnV.gif');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-nycb03 {background-image: url('http://i.imgur.com/haMOiG5.gif');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-nycb02 {background-image: url('http://i.imgur.com/8mZ5I9H.png');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-nycb01 {background-image: url('http://i.imgur.com/jCWfGAn.gif');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-dinerset-g {background-image: url('http://i.imgur.com/aq6E7Hl.gif');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-dinerb06 {background-image: url('http://i.imgur.com/ERXsiFB.png');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-dinerb05 {background-image: url('http://i.imgur.com/Ja6gfnu.png');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-dinerb04 {background-image: url('http://i.imgur.com/qFVF890.gif');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-dinerb03 {background-image: url('http://i.imgur.com/QEmvw4B.jpg');background-size:cover
-}
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-dinerb02 {background-image: url('http://i.imgur.com/BcM0L1O.png');background-size:cover
-}
-/* Nep */
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-food01 {background-image: url('http://i.imgur.com/qMjoXya.jpg');background-size:cover
-} /* Fill later with some nep
-#chat-messages
-.id-5445930 .badge-box i.bdg.bdg-food02 {background-image: url('**FILL**');background-size:cover
-} */
-
-[data-cid|="5445930"] .msg .from .icon-chat-silver-subscriber {
-background-image: url('http://i.imgur.com/DO20H9J.png') !important;
-width: 16px;
-height: 16px;
-}
-[data-cid|="5602535"] .msg .from .icon-chat-silver-subscriber {
-background-image: url('http://i.imgur.com/DO20H9J.png') !important;
-}
-[data-cid|="5445930"] .msg .from .icon-chat-dj {
-background-image: url('http://steamcommunity-a.akamaihd.net/economy/emoticon/:noire:') !important;
-} /* End Personal Badge(s) */
 
 /* This is for everyone (Pink Heel Badge) */
 #chat-messages
