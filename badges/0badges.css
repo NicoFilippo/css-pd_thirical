@@ -1,0 +1,18 @@
+/* Custom Badges */
+
+/* General */
+#user-rollover .info .badge-box, 
+#chat-messages .badge-box
+{
+	background:          none !important;
+	background-size:     cover !important;
+	background-repeat:   no-repeat !important;
+	background-position: center center !important;
+}
+
+/* NicoFilippo */
+#user-rollover.id-6566712 .badge-box > i.bdg,
+.id-6566712 > .badge-box > i.bdg
+{
+    background-image:    url("https://nicofilippo.github.io/css-mpgs/ikony/NicoFilippo.gif");
+}
